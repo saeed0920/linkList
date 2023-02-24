@@ -1,0 +1,2 @@
+# linkList
+myLinkList in js :)
